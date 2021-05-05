@@ -1,6 +1,6 @@
 - 👋 Hi, I’m student pursuing a Master of Technology Degree in Information Technology in Engineering at International Institute Of Professional Studies Devi Ahilya Vishwa Vidhayala Indore.
 I Have a passion for Web Designing and Software Development with a keen intrest in new Technologies.
- -👀 I’m currently working on 
+-👀 I’m currently working on 
 - HTML
 - CSS
 - JAVASCRIPT
