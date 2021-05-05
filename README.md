@@ -19,7 +19,7 @@ I Have a passion for Web Designing and Software Development with a keen intrest 
  - Errortb.blogspot.com
  - Instagram - @t_rojan_legends
  - Twitter - @MahakGu22040096
- - linkdin - @mahak-gupta-60197a1aa
+ - linkedin - @mahak-gupta-60197a1aa
 
 📫 How to reach me 
  - Drop me a mail at Kittish1516@rediffmail.com 
