@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="500" height="500" />
 
 👋 Hi, I’m student pursuing a Master of Technology Degree in Information Technology in Engineering at International Institute Of Professional Studies Devi Ahilya Vishwa Vidhayala Indore. 
 I Have a passion for Web Designing and Software Development with a keen intrest in new Technologies. 
