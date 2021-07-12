@@ -41,3 +41,21 @@ You can click the Preview link to take a look at your changes.
 </a>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guptajimahak&theme=dracula"></p>
 <hr>
+
+
+<a href="mailto:guptamahak740@gmail.com" target="_blank"
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 60px; height: 60px; border-radius: 5px;text-decoration:none;margin: 5px;">
+        <img  src="./google.png" width="30px" height="30px"/>
+    </a>
+    <a href="https://www.linkedin.com/in/mahak-gupta-60197a1aa/" target="blank"
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 60px; height: 60px; border-radius: 5px;text-decoration:none;margin: 5px;">
+        <img  src="./linkedin.png" width="30px" height="30px"/>
+    </a>
+    <a href="https://www.instagram.com/itz_me_t_rojan_/?utm_medium=copy_link" target="_blank"
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 60px; height: 60px; border-radius: 5px;text-decoration:none;margin: 5px;">
+        <img  src="./instagram.png" width="30px" height="30px"/>
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=+916268263887" target="_blank"
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 60px; height: 60px; border-radius: 5px;text-decoration:none;margin: 5px;">
+        <img  src="./whatsapp.png" width="30px" height="30px"/>
+    </a>
