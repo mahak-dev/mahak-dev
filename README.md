@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-👋 Hi, I’m student pursuing a Master of Technology Degree in Information Technology in Engineering at International Institute Of Professional Studies Devi Ahilya Vishwa Vidhayala Indore. 
+ I’m student pursuing a Master of Technology Degree in Information Technology in Engineering at International Institute Of Professional Studies Devi Ahilya Vishwa Vidhayala Indore. 
 I Have a passion for Web Designing and Software Development with a keen intrest in new Technologies. 
 
 
@@ -44,7 +44,6 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 
-https://github.com/mahak-dev/github-stats/blob/master/generated/overview.svg
 
 
 
