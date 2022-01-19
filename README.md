@@ -35,12 +35,16 @@ You can click the Preview link to take a look at your changes.
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 
-<a href="https://github.com/guptajimahak">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guptajimahak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guptajimahak&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/mahak-dev">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahak-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahak-dev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guptajimahak&theme=dracula"></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahak-dev&theme=dracula"></p>
 <hr>
+
+
+https://github.com/mahak-dev/github-stats/blob/master/generated/overview.svg
+
 
 
 <h1 align="center"> Connect Me </h1>
