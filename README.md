@@ -33,8 +33,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+ 
 
 <a href="https://github.com/mahak-dev">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahak-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
